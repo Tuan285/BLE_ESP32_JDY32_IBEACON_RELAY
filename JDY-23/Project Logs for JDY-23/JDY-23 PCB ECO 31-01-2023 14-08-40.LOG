@@ -1,0 +1,27 @@
+Added Component: Designator=*(JDY-23)
+Added Pin To Net: NetName=3V3 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=OUT1 Pin=*-4
+Added Pin To Net: NetName=OUT2 Pin=*-5
+Added Pin To Net: NetName=STAT Pin=*-6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=OUT3 Pin=*-8
+Added Pin To Net: NetName=OUT4 Pin=*-9
+Added Pin To Net: NetName=OUT5 Pin=*-10
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=OUT6 Pin=*-13
+Added Pin To Net: NetName=OUT7 Pin=*-14
+Added Pin To Net: NetName=Net*_15 Pin=*-15
+Added Pin To Net: NetName=Net*_16 Pin=*-16
+Added Pin To Net: NetName=Net*_17 Pin=*-17
+Added Pin To Net: NetName=Net*_18 Pin=*-18
+Added Pin To Net: NetName=TXD Pin=*-19
+Added Pin To Net: NetName=RXD Pin=*-20
+Added Pin To Net: NetName=Net*_21 Pin=*-21
+Added Pin To Net: NetName=PWRC Pin=*-22
+Added Pin To Net: NetName=Net*_23 Pin=*-23
+Added Pin To Net: NetName=GND Pin=*-24
+Added Member To Class: ClassName=JDY-23 Member=Component * U?
+Added Room: Name=JDY-23

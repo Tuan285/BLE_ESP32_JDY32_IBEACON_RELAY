@@ -1,0 +1,18 @@
+Change Component Comment : Designator=R1 Old Comment=1k New Comment=330
+Change component parameters: Designator = "J1" ("J1"); Footprint = "HDRLP_M_1X8"; UniqueID = "\CIYBHFON" ("\CIYBHFON")
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "HDRM8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "HDRLP_M_1X8"; UniqueID = "\CXBHSLAO" ("\CXBHSLAO")
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "HDRM8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "HDRLP_M_1X8"; UniqueID = "\OGATGVWH" ("\OGATGVWH")
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "HDRM8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "HDRLP_M_1X6"; UniqueID = "\RDONSMMP" ("\RDONSMMP")
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "HDRM6"; VariantName = "[No Variations]"
+Added Room: Name=JDY-23

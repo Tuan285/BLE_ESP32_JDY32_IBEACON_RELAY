@@ -1,0 +1,102 @@
+Added Component: Designator=J5(HDRLP_M_1X10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "http://www.chila.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRM10"; VariantName = "[No Variations]"
+Added Component: Designator=J6(HDRLP_M_1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "http://www.chila.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRM6"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED3G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "D:\Dropbox\Datasheets\Opto and Illumination\LEDs\SMD LED.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.0476"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R025W_AX04)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SWPBT_SPDT_6X6X5SKHH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "http://www.chila.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SKHHAKA010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=U1(HM-10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=LED4-2
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=BT Pin=J5-10
+Added Pin To Net: NetName=BT Pin=J6-2
+Added Pin To Net: NetName=BT Pin=SW1-1
+Added Pin To Net: NetName=BT Pin=SW1-4
+Added Pin To Net: NetName=BT Pin=U1-12
+Added Pin To Net: NetName=BT Pin=U1-23
+Added Net: Name=BT
+Added Pin To Net: NetName=CTS Pin=J6-4
+Added Pin To Net: NetName=CTS Pin=U1-3
+Added Net: Name=CTS
+Added Pin To Net: NetName=LED Pin=J5-9
+Added Pin To Net: NetName=LED Pin=R4-1
+Added Pin To Net: NetName=LED Pin=U1-24
+Added Net: Name=LED
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=U1-32
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=U1-31
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=U1-30
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetJ5_4 Pin=J5-4
+Added Pin To Net: NetName=NetJ5_4 Pin=U1-29
+Added Net: Name=NetJ5_4
+Added Pin To Net: NetName=NetJ5_5 Pin=J5-5
+Added Pin To Net: NetName=NetJ5_5 Pin=U1-28
+Added Net: Name=NetJ5_5
+Added Pin To Net: NetName=NetJ5_6 Pin=J5-6
+Added Pin To Net: NetName=NetJ5_6 Pin=U1-27
+Added Net: Name=NetJ5_6
+Added Pin To Net: NetName=NetJ5_7 Pin=J5-7
+Added Pin To Net: NetName=NetJ5_7 Pin=U1-26
+Added Net: Name=NetJ5_7
+Added Pin To Net: NetName=NetJ5_8 Pin=J5-8
+Added Pin To Net: NetName=NetJ5_8 Pin=U1-25
+Added Net: Name=NetJ5_8
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R4-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=RTS Pin=J6-3
+Added Pin To Net: NetName=RTS Pin=U1-4
+Added Net: Name=RTS
+Added Pin To Net: NetName=RX Pin=J6-5
+Added Pin To Net: NetName=RX Pin=U1-2
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=J6-6
+Added Pin To Net: NetName=TX Pin=U1-1
+Added Net: Name=TX
+Added Member To Class: ClassName=JDY-23 Member=Component J5 HDR1X10
+Added Member To Class: ClassName=JDY-23 Member=Component J6 HDR1X6
+Added Member To Class: ClassName=JDY-23 Member=Component LED4 LED_G_3
+Added Member To Class: ClassName=JDY-23 Member=Component R4 1k
+Added Member To Class: ClassName=JDY-23 Member=Component SW1 PUSHBUTTON
+Added Member To Class: ClassName=JDY-23 Member=Component U1 HM-10
+Added Room: Name=JDY-23

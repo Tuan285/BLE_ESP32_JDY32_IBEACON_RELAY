@@ -1,0 +1,22 @@
+Added Component: Designator=U?(HM-10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TX Pin=U?-1
+Added Pin To Net: NetName=RX Pin=U?-2
+Added Pin To Net: NetName=CTS Pin=U?-3
+Added Pin To Net: NetName=RTS Pin=U?-4
+Added Pin To Net: NetName=+3V3 Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=GND Pin=U?-21
+Added Pin To Net: NetName=GND Pin=U?-22
+Added Pin To Net: NetName=BT Pin=U?-23
+Added Pin To Net: NetName=LED Pin=U?-24
+Added Pin To Net: NetName=NetJ5_8 Pin=U?-25
+Added Pin To Net: NetName=NetJ5_7 Pin=U?-26
+Added Pin To Net: NetName=NetJ5_6 Pin=U?-27
+Added Pin To Net: NetName=NetJ5_5 Pin=U?-28
+Added Pin To Net: NetName=NetJ5_4 Pin=U?-29
+Added Pin To Net: NetName=NetJ5_3 Pin=U?-30
+Added Pin To Net: NetName=NetJ5_2 Pin=U?-31
+Added Pin To Net: NetName=NetJ5_1 Pin=U?-32
+Added Member To Class: ClassName=JDY-23 Member=Component U? HM-10

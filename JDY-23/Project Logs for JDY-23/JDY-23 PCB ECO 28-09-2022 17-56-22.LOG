@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=TX Pin=U?-1
+Removed Pin From Net: NetName=RX Pin=U?-2
+Removed Pin From Net: NetName=CTS Pin=U?-3
+Removed Pin From Net: NetName=RTS Pin=U?-4
+Removed Pin From Net: NetName=+3V3 Pin=U?-12
+Removed Pin From Net: NetName=GND Pin=U?-13
+Removed Pin From Net: NetName=GND Pin=U?-14
+Removed Pin From Net: NetName=GND Pin=U?-21
+Removed Pin From Net: NetName=GND Pin=U?-22
+Removed Pin From Net: NetName=BT Pin=U?-23
+Removed Pin From Net: NetName=LED Pin=U?-24
+Removed Pin From Net: NetName=NetJ5_8 Pin=U?-25
+Removed Pin From Net: NetName=NetJ5_7 Pin=U?-26
+Removed Pin From Net: NetName=NetJ5_6 Pin=U?-27
+Removed Pin From Net: NetName=NetJ5_5 Pin=U?-28
+Removed Pin From Net: NetName=NetJ5_4 Pin=U?-29
+Removed Pin From Net: NetName=NetJ5_3 Pin=U?-30
+Removed Pin From Net: NetName=NetJ5_2 Pin=U?-31
+Removed Pin From Net: NetName=NetJ5_1 Pin=U?-32
+Removed Member From Class: ClassName=JDY-23 Member=U?
+Added Component: Designator=U1(HM-10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TX Pin=U1-1
+Added Pin To Net: NetName=RX Pin=U1-2
+Added Pin To Net: NetName=CTS Pin=U1-3
+Added Pin To Net: NetName=RTS Pin=U1-4
+Added Pin To Net: NetName=+3V3 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=BT Pin=U1-23
+Added Pin To Net: NetName=LED Pin=U1-24
+Added Pin To Net: NetName=NetJ5_8 Pin=U1-25
+Added Pin To Net: NetName=NetJ5_7 Pin=U1-26
+Added Pin To Net: NetName=NetJ5_6 Pin=U1-27
+Added Pin To Net: NetName=NetJ5_5 Pin=U1-28
+Added Pin To Net: NetName=NetJ5_4 Pin=U1-29
+Added Pin To Net: NetName=NetJ5_3 Pin=U1-30
+Added Pin To Net: NetName=NetJ5_2 Pin=U1-31
+Added Pin To Net: NetName=NetJ5_1 Pin=U1-32
+Added Member To Class: ClassName=JDY-23 Member=Component U1 HM-10
+Added Room: Name=JDY-23
